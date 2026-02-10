@@ -1,2 +1,2 @@
 # Focus-Timer
-Focus Timer App
+JAVA SWING Based application which tracks the time throughput the study or break session.
